@@ -4,4 +4,4 @@
 
 * Allure на Github: [http://bit.ly/allure-framework](http://bit.ly/allure-framework)
 * Тесты на фронтенд здесь: [http://bit.ly/allure-frontend-tests](http://bit.ly/allure-frontend-tests)
-* И эти тесты видно в нашем Teamcity: [http://bit.ly/allure-teamcity-jasmine](http://bit.ly/allure-teamcity-jasmine)
+* Они отображаются в Teamcity: [http://bit.ly/allure-teamcity-jasmine](http://bit.ly/allure-teamcity-jasmine)

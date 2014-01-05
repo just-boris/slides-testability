@@ -1,6 +1,4 @@
-## Slide 2
-
-Allure
+## Allure
 
 *allure image*
 
