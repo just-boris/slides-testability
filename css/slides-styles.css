@@ -1,0 +1,9 @@
+.allure-img {
+    position: relative;
+    overflow: hidden;
+}
+.allure-img img:not(:first-child) {
+    display: block;
+    position: absolute;
+    top: 0;
+}
