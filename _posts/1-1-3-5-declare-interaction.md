@@ -1,3 +1,3 @@
-## Декларируем взаимодействие
+## Опишем взаимодействие
 
-*interaction scheme*
+![interaction scheme](img/interaction.svg)

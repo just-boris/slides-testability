@@ -1,3 +1,3 @@
 ## Можно тестировать!
 
-*test scheme picture*
+![test scheme picture](img/testing_module.svg)

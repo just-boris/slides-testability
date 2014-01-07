@@ -17,6 +17,6 @@ $(function(){
 });
 </code></pre>
 <div class="scheme-wrap_img">
-![complicated alarm](img/alarm_complicated.svg)
+![complicated alarm](img/alarm_complicated.svg){% include fragment.html %}
 </div>
 </div>
