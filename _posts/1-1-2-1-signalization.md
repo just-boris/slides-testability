@@ -1,11 +1,14 @@
 ## Охрана вашего кода
 
-```javascript
-function App(options) {
+<div class="scheme-wrap">
+<pre><code class="javascript">function App(options) {
     this.init(options);
     this.render();
     this.sayHello();
 }
-```
-
-*signalization img*{% include fragment.html %}
+</code></pre>
+<div class="scheme-wrap_img">
+![alarm ok](img/alarm_ok.svg){% include fragment.html %}
+![tests ok](img/jasmine_ok.png){% include fragment.html %}
+</div>
+</div>
