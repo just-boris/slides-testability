@@ -1,10 +1,8 @@
-## Советы
+## Создавайте моки
 
-**2. Правильно пишите заглушки (mocks)**
+Заглушки должны быть простыми и без внутренней логики.<br> В Jasmine это очень просто:
 
-Заглушки должны быть простыми и без внутренней логики. В Jasmine это очень просто:
-
-```javascript
+```
 var ModuleMock = jasmine.createSpy('Module').andReturn({
         init: jasmine.createSpy('module.init'),
         foo: jasmine.createSpy('module.foo'),

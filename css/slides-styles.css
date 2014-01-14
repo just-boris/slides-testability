@@ -22,7 +22,7 @@
     text-align: right;
 }
 
-.reveal .scheme-wrap_img img, .reveal .allure-slice img {
+.reveal .scheme-wrap_img img, .reveal .allure-slice img, .reveal .img_noborder img {
     margin: 0;
     border: 0;
     box-shadow: none;

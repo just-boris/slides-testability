@@ -11,16 +11,17 @@ it('should be alright', function(){
 ```
 
 <div class="fragment">
-Но некоторые действия можно вынести за скобки, если они повторяются в разных тестах:
+А можно еще короче:
 
 <pre><code class="javascript">beforeEach(function() {
    module = new Module(config);
+   module.doSomething();
 });
 it('should be alright', function(){
-    module.doSomething();
-});
-afterEach(function() {
     expect(module.property).toBe(correct);
+});
+it('should not have errors', function() {
+    expect(module.errors.length).toBe(0);
 });
 </code></pre>
 </div>
