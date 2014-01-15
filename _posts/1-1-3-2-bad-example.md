@@ -16,7 +16,7 @@ $(function(){
     $("#user_name").focus();
 });
 </code></pre>
-<div class="scheme-wrap_img">
+<div class="scheme-wrap_img" style="left: 45%">
 ![complicated alarm](img/alarm_complicated.svg){% include fragment.html %}
 </div>
 </div>
