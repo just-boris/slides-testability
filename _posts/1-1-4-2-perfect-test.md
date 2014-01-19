@@ -11,7 +11,7 @@ it('should be alright', function(){
 ```
 
 <div class="fragment">
-А можно еще короче:
+Общее выносим за скобки:
 
 <pre><code class="javascript">beforeEach(function() {
    module = new Module(config);
