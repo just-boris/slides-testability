@@ -15,7 +15,9 @@ reveal_notes_server: false
 
 # Additional reveal.js options
 reveal_options: |
-  transition: 'fade'
+  transition: 'fade',
+  width: 1020,
+  height: 800
 
 # Additional reveal.js dependencies
 reveal_dependencies: 

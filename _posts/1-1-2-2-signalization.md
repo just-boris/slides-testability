@@ -7,7 +7,7 @@
     this.sayHello();
 }
 </code></pre>
-<div class="scheme-wrap_img" style="left: 30%">
+<div class="scheme-wrap_img" style="left: 34%">
 ![alarm fail](img/alarm_ok.svg)
 </div>
 </div>

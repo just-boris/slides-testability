@@ -9,5 +9,4 @@ it('should format time', function() {
 ```
 
 {% include fragment.html %}
-Больше мне не нужно ждать 25 часов, чтобы воспроизвести баг!
-<img style="" src="img/crying-face.jpg">
+![](img/crying-face.jpg)

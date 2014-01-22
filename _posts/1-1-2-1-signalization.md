@@ -7,7 +7,7 @@
     this.sayHello();
 }
 </code></pre>
-<div class="scheme-wrap_img" style="left: 30%">
+<div class="scheme-wrap_img" style="left: 34%">
 ![alarm ok](img/alarm_ok.svg){% include fragment.html %}
 </div>
 </div>
